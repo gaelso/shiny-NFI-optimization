@@ -1,0 +1,9 @@
+
+## Custom gitignore
+data/
+
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
